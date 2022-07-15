@@ -1,0 +1,40 @@
+/*Selector {Property:value;}*/
+
+body{
+	background-image: url(Semaj.jpeg);
+	background-size: cover;
+}
+
+h2{
+	background-color: rgba(200, 200, 200, 0.2);
+	text-align: center;
+	border: 5px solid black;
+	cursor: pointer;
+	font-size: 50px;
+}
+
+p{
+	font-size: 20px;
+	color: orange;
+}
+
+header{
+	font-size: 30px;
+}
+
+header{
+	background-color: rgba(141, 147, 127, 0.4);
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+	margin-right: 15px;
+}
+
+.webtext{
+	border: 2px solid rgba(200, 200, 200, 0.8);
+	background-color:rgba(200, 200, 200, 0.2);
+}
+
+#div1{}
